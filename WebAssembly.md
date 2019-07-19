@@ -47,7 +47,7 @@ A session by Thomas Tränkler,
 
 * [WebAssembly Weekly](https://twitter.com/wasmweekly)
 * Join the [discord](https://discordapp.com/invite/nEFErF8)
-
+* [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm/blob/master/README.md)
 
 
   
