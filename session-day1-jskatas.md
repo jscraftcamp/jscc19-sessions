@@ -13,5 +13,6 @@ I told that I added https://plausible.io stats lately and decided to ask people 
 - collect stats about how many tests executed, how often tests are executed, how many passing/failing ones
 
 # Thanks
+Thank you for all participants throwing ideas around.  
 Find me on twitter at [@wolframkriesing](https://twitter.com/wolframkriesing).  
 Find the [jskatas code online](https://github.com/wolframkriesing/jskatas.org) and also the [katas themselves are on github](https://github.com/tddbin/katas/tree/master/katas).
