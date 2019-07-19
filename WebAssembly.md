@@ -46,6 +46,9 @@ A session by Thomas Tränkler,
 ## See also
 
 * [WebAssembly Weekly](https://twitter.com/wasmweekly)
-  
+* Join the [discord](https://discordapp.com/invite/nEFErF8)
+
+
+
   
 
