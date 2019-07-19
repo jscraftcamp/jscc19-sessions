@@ -1,5 +1,5 @@
-I shortly introduced what jskatas.org is and what it is good for.
-I told that I added plausible.io stats lately and decided to ask people more, because I saw that (for my surprise) lots of people use the site (see stats here https://plausible.io/jskatas.org).
+I shortly introduced what https://jskatas.org is and what it is good for.
+I told that I added https://plausible.io stats lately and decided to ask people more, because I saw that (for my surprise) lots of people use the site (see stats here https://plausible.io/jskatas.org).
 
 # Ideas where it coud go
 - prevent from changing the assert line
