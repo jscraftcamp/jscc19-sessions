@@ -43,9 +43,9 @@ A session by Thomas Tränkler,
   * see also [innative](https://hub.packtpub.com/introducing-innative-an-aot-compiler-that-runs-webassembly-using-llvm-outside-the-sandbox-at-95-native-speed/) - runs WebAssembly using LLVM outside the Sandbox at 95% native speed
   
   
-  ## See also
-  
-  * [WebAssembly Weekly](https://twitter.com/wasmweekly)
+## See also
+
+* [WebAssembly Weekly](https://twitter.com/wasmweekly)
   
   
 
