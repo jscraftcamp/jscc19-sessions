@@ -35,5 +35,10 @@ A session by Thomas Tränkler,
 * [AssemblyScript](https://docs.assemblyscript.org/)
 
 
+## Q and A
 
+* Serverside WebAssembly
+  * node supports it
+  * see [talk on WASI](https://www.youtube.com/watch?v=YhNkspvw37w)
+  * see also [innative](https://hub.packtpub.com/introducing-innative-an-aot-compiler-that-runs-webassembly-using-llvm-outside-the-sandbox-at-95-native-speed/) - runs WebAssembly using LLVM outside the Sandbox at 95% native speed
 
