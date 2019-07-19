@@ -1,4 +1,7 @@
-A session by Thomas Tränkler, organizer of the [Munic WebAssembly Meetup](https://www.meetup.com/WebAssembly/) [videos](https://www.youtube.com/channel/UCdV8K8PaJgxgmQ83Lr4-WVQ)
+A session by Thomas Tränkler, 
+
+* organizer of the [Munic WebAssembly Meetup](https://www.meetup.com/WebAssembly/) [videos](https://www.youtube.com/channel/UCdV8K8PaJgxgmQ83Lr4-WVQ)
+* runs the WebAssembly news site [webassembly.eu](https://webassembly.eu/)
 
 
 ## History of WebAssembly
@@ -24,5 +27,13 @@ A session by Thomas Tränkler, organizer of the [Munic WebAssembly Meetup](https
 
 * autodesk: [autocad viewer](https://www.autodesk.com/products/autocad-web-app/overview) on the web built with webassembly [](www
 * google earth (beta)
+* sass: [not yet](https://github.com/sass/node-sass/issues/2011)
+
+## Languages that compile to WebAssembly
+
+* everything clang/llvm
+* [AssemblyScript](https://docs.assemblyscript.org/)
+
+
 
 
