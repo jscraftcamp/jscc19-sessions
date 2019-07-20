@@ -4,9 +4,9 @@ _Session facilitated by [Jake Runzer](https://github.com/coffee-cup)_.
 
 ## Agenda
 
-- What is Babel and how is it commonly used
-- What is an AST. What spec does Babel use. Looked at some links and tools to
-  help understand and construct AST nodes.
+- Went over what Babel is and how it is commonly used
+- Went over JavaScript ASTs and what the Babel AST spec is. Looked at some links
+  and tools to help understand and construct AST nodes.
 - Created a simple babel plugin on ASTExplorer. Looked at what babel each
   visitor function receives as params.
 - Explored plugin developed with TypeScript
