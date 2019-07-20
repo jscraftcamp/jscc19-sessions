@@ -10,8 +10,9 @@ _Session facilitated by [Jake Runzer](https://github.com/coffee-cup)_.
 - Created a simple babel plugin on ASTExplorer. Looked at what babel each
   visitor function receives as params.
 - Explored plugin developed with TypeScript
-- Looked at how we are using babel to transform simple React code to fully Redux
-  connected components
+- Looked at how we are using babel to transform simple React components to fully Redux
+  connected components. If you are interested in trying out the alpha, please
+  get in touch!
 
 
 All of the resources and tools explored can be found in the
