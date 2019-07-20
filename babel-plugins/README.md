@@ -9,7 +9,9 @@ _Session facilitated by [Jake Runzer](https://github.com/coffee-cup)_.
   help understand and construct AST nodes.
 - Created a simple babel plugin on ASTExplorer. Looked at what babel each
   visitor function receives as params.
-- Explore plugin developed with TypeScript
+- Explored plugin developed with TypeScript
+- Looked at how we are using babel to transform simple React code to fully Redux
+  connected components
 
 
 All of the resources and tools explored can be found in the
