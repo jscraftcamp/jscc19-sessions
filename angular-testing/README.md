@@ -1,4 +1,8 @@
 # Testing Angular at Hetzner
+Slides: https://wachri.github.io/What-we-learned-about-angular-testing-by-writing-over-5000-tests
+
+Slides for the mentioned e2e testing presentation: https://wachri.github.io/protractor-e2e-testing
+
 
 ## jasmine vs jest 
 * jasmine and karma come out of the box and are easy to use
