@@ -1,6 +1,9 @@
 # Web Architectures
 _Session moderated by Brigitte Jellinek ([@bjelline](https://twitter.com/bjelline)) and Marco Emrich ([@marcoemrich](https://twitter.com/marcoemrich))_
 
+This represents the final state of the session on Saturday.
+Brigitte will continue working on this in [her fork of the repository](https://github.com/bjelline/jscc19-sessions/tree/master/web-architectures).
+
 We want to learn about what architectures people are using today.
 Are we using the same vocabulary to describe web architectures?
 Maybe we can find a common vocabulary.
